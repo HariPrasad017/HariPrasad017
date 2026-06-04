@@ -50,13 +50,8 @@
 
 🔗 **[View Project →](https://github.com/HariPrasad017/MCU-Intelligence-Dashboard)**
 
----
 
-## 📊 GitHub Stats
 
-![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariPrasad017&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HariPrasad017&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
