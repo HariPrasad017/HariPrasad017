@@ -6,9 +6,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 **Featured Project:** MCU Intelligence Dashboard & Success Prediction System
-- 🌱 **Skills:** Data Cleaning · EDA · ML Models · SQL · Interactive Dashboards
-- 💼 **Seeking:** Data Analyst / Business Analyst roles
+- 🔭 **Featured Project:** MCU Intelligence Dashboard & SPIDY AI Voice Assistant
+- 🌱 **Skills:** Data Cleaning · EDA · ML Models · SQL · Interactive Dashboards · ML · LLM · GenAI
+- 💼 **Seeking:** Data Analyst / AI & ML Roles
 - 📍 **Location:** Salem, Tamil Nadu, India
 - 🔗 **LinkedIn:** [hari-prasad](https://linkedin.com/in/hari-prasad-856a3528b)
 
@@ -29,7 +29,7 @@
 
 ## 📌 Featured Project
 
-### 🎬 MCU Intelligence Dashboard & Success Prediction System
+### 🎬 MCU Intelligence Dashboard & SPIDY AI Voice Assistant
 
 > **Complete data analytics lifecycle project on 49 Marvel Cinematic Universe titles (2008–2025)**
 
